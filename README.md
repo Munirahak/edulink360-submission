@@ -87,13 +87,12 @@ This README file serves as the **official project documentation**, detailing:
 
 The project color palette is documented below:
 
-- Primary Color: #4F46E5
-- Secondary Color: #3B82F6
-- Background Color: #FFFFFF
-- Text Color: #111827
-- Accent Color: #22C55E
+- Primary Blue: #00B4D8
+- Orange Accent: #FF8A56
+- Dark Blue: #283447 / #0b1633
+- Green: #22C55E
 
-(Alternatively, palette reference: https://coolors.co/YOUR-PALETTE-LINK)
+(Alternatively, palette reference: https://www.figma.com/design/gK7d4BIFrI3fjrWwYjQZTs/EDULINK-360-HANDOFF?node-id=1-3596&t=7ofT7xktrk8a3Hsk-1)
 
 ---
 
@@ -101,5 +100,5 @@ The project color palette is documented below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Munirahak/edulink360-frontend.git
+   git clone https://github.com/Blaqbeard/edulink360-frontend
    ```
